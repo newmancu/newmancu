@@ -1,7 +1,10 @@
 ## Hi, I'm Denis!
 
+I am a young developer who enjoys creating website functionality and cooking. Also I participate in hackathons and do something in ML.
 
 ## Tools I use
+
+<div id="Tools" align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Djnago](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -13,6 +16,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
 
 ## Where to find me
 <div id="Contacts" align="center">
