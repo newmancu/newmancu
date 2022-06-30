@@ -2,23 +2,26 @@
 
 I am a young developer who enjoys creating website functionality and cooking. Also I participate in hackathons and do something in ML.
 
+<div id="Stars" align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newmancu&show_icons=true&hide=contribs,prs&theme=gotham)
+
+</div>
 
 ## Tools I use
 
 <div id="Tools" align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Djnago](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&logoWidth=20)
+![Djnago](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white&logoWidth=20)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white&logoWidth=20)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white&logoWidth=20)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white&logoWidth=20)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white&logoWidth=20)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white&logoWidth=20)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white&logoWidth=20)
 
 
 </div>
@@ -26,8 +29,7 @@ I am a young developer who enjoys creating website functionality and cooking. Al
 ## Where to find me
 <div id="Contacts" align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/newmancu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](newmancu@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white&logoWidth=20&label=@newmancu)](https://t.me/newmancu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&logoWidth=20&label=newmancu@gmail.com)](newmancu@gmail.com)
 
 </div>
-
