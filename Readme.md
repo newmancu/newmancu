@@ -2,6 +2,9 @@
 
 I am a young developer who enjoys creating website functionality and cooking. Also I participate in hackathons and do something in ML.
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newmancu&show_icons=true&hide=contribs,prs&theme=gotham)
+
 ## Tools I use
 
 <div id="Tools" align="center">
@@ -17,6 +20,7 @@ I am a young developer who enjoys creating website functionality and cooking. Al
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
 </div>
 
 ## Where to find me
@@ -26,3 +30,4 @@ I am a young developer who enjoys creating website functionality and cooking. Al
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](newmancu@gmail.com)
 
 </div>
+
